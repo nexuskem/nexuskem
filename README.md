@@ -13,7 +13,7 @@ Welcome! I'm Obadiah Kemboi, a developer passionate about mobile and web develop
 
 ## Contact & Links
 - [GitHub](https://github.com/nexuskem)  
-- [LinkedIn](https://linkedin.com/in/Obadiahkemboi)  
+- [LinkedIn](https://www.linkedin.com/in/obadiah-kemboi)  
 - Email: nexuskem@gmail.com
 
 
